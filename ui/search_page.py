@@ -4,7 +4,7 @@
 """
 from PyQt6.QtWidgets import (
     QWidget, QVBoxLayout, QHBoxLayout, QScrollArea,
-    QLabel, QGridLayout, QFrame, QLineEdit
+    QLabel, QGridLayout, QFrame, QLineEdit, QPushButton
 )
 from PyQt6.QtCore import Qt, QThread, pyqtSignal
 
